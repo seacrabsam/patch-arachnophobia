@@ -9,4 +9,4 @@ Patch-R Spider -> Rock Flayer.
 
 Patch-S Spider -> Ravager. Death animation is buggy.
 
-Only use ONE of these patches. Add MPQ file to Data folder and delete WDB folder before logging in.
+Only use ONE of these patches. Add MPQ file to data folder and delete WDB before logging in.
